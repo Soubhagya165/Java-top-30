@@ -6,7 +6,7 @@ public class Program1 {
     }
     public static void main(String [] args) {
         Program1 obj = new Program1();
-        int x = 10;
+        int x = 20;
         obj.Reading(x);
     }
 }
